@@ -40,12 +40,14 @@ A very interesting indicator for development of different countries and regions 
 
 There are two files in this repository:
 
-- `data.csv`: generated and downloaded file from the Worldbank databank.
+- `data.csv`: Generated and downloaded file from the Worldbank databank.
 - `life_expectancy.ipynb`: Jupyther Notebook including the CRISP-DM to prepare and analyze the given questions in the project motivation.
+- `index.html`: Blog post article with a summary of the results.
+- `image_0x`: Images which support the blog post and the `index.html` file
 
 ### Results
 
-- Link zum Blog
+A summary of the results in the form of a blog post can be found on my GitHub page <a href="https://stefanschonauer.github.io/Udacity_DSND_Project_01/">here</a>.
 
 ### Licensing, Authors, Acknowledgements
 
