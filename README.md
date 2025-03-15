@@ -52,3 +52,7 @@ A summary of the results in the form of a blog post can be found on my GitHub pa
 ### Licensing, Authors, Acknowledgements
 
 The data is offered by the Worldbank. You can find the Licensing for the data and other descriptive information <a href="https://databank.worldbank.org/">here</a>.
+
+The image in the blog post is taken by J. KAUR and published on pexels.com. You can find the original file <a href="https://www.pexels.com/de-de/foto/zartlicher-moment-zwischen-kinder-und-altenhanden-28316047/">here</a>. 
+
+Many thanks to both!
